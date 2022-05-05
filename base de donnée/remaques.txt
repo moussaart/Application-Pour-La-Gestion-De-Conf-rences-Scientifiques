@@ -1,0 +1,2 @@
+dossier file contient des fichiers qu'on a utilisé
+*Il ya 2 versions de la base de donnée : version sql et relationnel
